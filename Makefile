@@ -1,4 +1,4 @@
-PREFIX=/usr/bin
+PREFIX=/usr/local/bin
 
 .PHONY: install
 install: xdg-open config
